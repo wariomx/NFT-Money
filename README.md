@@ -6,6 +6,12 @@ Wrap your copyright NFTs to get instant liquidity, then send tokens anywhere in 
 
 ---
 
+## Web
+
+https://nft-money.vercel.app/
+
+---
+
 ## What It Does
 
 1. **Register** your copyright as an NFT
