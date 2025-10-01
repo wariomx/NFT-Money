@@ -1,0 +1,6 @@
+/ignition/deployments/
+node_modules
+.papi
+artifacts-pvm
+cache-pvm
+.env
