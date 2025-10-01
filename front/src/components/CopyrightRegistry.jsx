@@ -178,7 +178,7 @@ export default function CopyrightRegistry({ account, provider }) {
           disabled={loading}
           className={`w-full ${themeClasses.button}`}
         >
-          {loading ? '⏳ Registering...' : '✨ Register Copyright (0.01 ETH)'}
+          {loading ? '⏳ Registering...' : '✨ Register Copyright (0.01 DOT)'}
         </button>
       </form>
 

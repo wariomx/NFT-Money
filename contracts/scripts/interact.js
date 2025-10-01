@@ -27,7 +27,7 @@ async function main() {
   // Step 1: Register a Copyright Asset
   console.log("=== Step 1: Registering Copyright Asset ===");
   const registryFee = await nftContract.registryFee();
-  console.log(`Registry fee: ${hre.ethers.formatEther(registryFee)} ETH`);
+  console.log(`Registry fee: ${hre.ethers.formatEther(registryFee)} DOT`);
 
   const registerTx = await nftContract.registerCopyrightAsset(
     "My Artwork",
